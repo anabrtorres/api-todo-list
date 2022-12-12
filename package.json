@@ -1,5 +1,5 @@
 {
-  "name": "rest-web-service",
+  "name": "api-todo-list",
   "version": "1.0.0",
   "description": "O objetivo deste trabalho é implementar um sistema de gerenciamento de tarefas (to do list), conforme especificado a seguir. O sistema deve ter pelo menos dois componentes: um cliente e um serviço web com uma API REST.",
   "main": "index.js",
@@ -20,7 +20,6 @@
   "homepage": "https://github.com/anabrtorres/rest-web-service#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "firebase": "^9.15.0",
     "mongoose": "^6.8.0"
   }
 }
