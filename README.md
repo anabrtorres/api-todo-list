@@ -63,7 +63,7 @@ npm run dev
 | `GET` | `/tarefas` | Retorna uma lista de tarefas |
 
 ## Exemplo para teste no Insomnia
-O id é criado automaticamente pelo MongoDB, o prazo está como default a data/hora atual e o parametro completa é iniciada como false. Dessa forma, pode ser criada uma tarefa passando apenas a descrição.
+O **id** é criado automaticamente pelo MongoDB, o **prazo** está como padrão a data/hora atual e o parametro **completa** é iniciada como false. Dessa forma, pode ser criada uma tarefa passando apenas a **descrição**.
 ```javascript
 POST
 {  
