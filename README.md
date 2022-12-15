@@ -23,12 +23,23 @@ O objetivo deste trabalho é implementar um sistema de gerenciamento de tarefas 
 
 ## Instalação
 
-1. Clonar repositório  `git clone https://github.com/anabrtorres/api-todo-list.git `
-2. Instalar aplicação `  npm install `
+1. Clonar repositório  
+```
+git clone https://github.com/anabrtorres/api-todo-list.git 
+```
+2. Instalar aplicação no terminal dentro da pasta api-todo-list
+```
+npm install 
+```
 3. Criar variáveis de ambiente
-   - Cria um arquivo .env na raiz do projeto, copiando os dados do .env.example
-4. Inicia o servidor ` npm start ou npm run dev `
-5. Abrir Insomnia no endereço abaixo para testar serviço web ` http://localhost:3000/tarefas `
+    - Faça uma cópia do arquivo *.env.example* na raiz do projeto. Renomeie-o para *.env* 
+4. Iniciar o servidor no terminal dentro da pasta api-todo-list
+```
+npm start 
+ou 
+npm run dev 
+```
+5. Abrir Insomnia no endereço abaixo para testar serviço web `http://localhost:3000/tarefas `
 
 ---
 
@@ -62,6 +73,6 @@ POST
 }
 ou
 {  
-  "descricao": "Jogar lis",
+  "descricao": "Jogar lis"
 }
 ```
