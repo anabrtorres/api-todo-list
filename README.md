@@ -4,8 +4,8 @@ Trabalho realizado para a disciplina de Sistemas Distribuidos da Universidade Fe
 O objetivo deste trabalho é implementar um sistema de gerenciamento de tarefas (to do list).  
 
 ## Alunos
-- [Ana Beatriz Torres]("https://github.com/anabrtorres")
-- [Larissa Narciso]("https://github.com/larisnarciso")
+- [Ana Beatriz Torres](https://github.com/anabrtorres)
+- [Larissa Narciso](https://github.com/larisnarciso)
 ---
 ## Biblioteca/Framework
 <table border-collapse=collapse>
