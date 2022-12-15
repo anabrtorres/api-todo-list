@@ -6,7 +6,7 @@ O objetivo deste trabalho é implementar um sistema de gerenciamento de tarefas 
 ## Alunos
 - [Ana Beatriz Torres]("https://github.com/anabrtorres")
 - [Larissa Narciso]("https://github.com/larisnarciso")
-
+---
 ## Biblioteca/Framework
 <table border-collapse=collapse>
   <tr>
@@ -15,7 +15,6 @@ O objetivo deste trabalho é implementar um sistema de gerenciamento de tarefas 
   </tr>
 </table>
 
----
 ## Requisitos
 
 - [Node & Npm](https://nodejs.org/en/)
